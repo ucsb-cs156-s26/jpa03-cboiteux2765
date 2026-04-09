@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: https://jpa03-cboiteux2765.dokku-09.cs.ucsb.edu/
+Running at: https://jpa03-cboiteux2765.dokku-09.cs.ucsb.edu
 
 # Configuring GitHub Pages for the documentation
 
